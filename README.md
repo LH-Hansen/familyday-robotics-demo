@@ -19,9 +19,10 @@ Firmware repository for **Family Day Open House** projects, showcasing embedded 
 | 1 | [KY-023 Dual-Axis XY Joystick Module](https://ardustore.dk/produkt/ky-023-dual-axis-xy-joystick-module) | 15.00 |
 | 1 | [Arduino Nano v3.0](https://ardustore.dk/produkt/arduino-nano-v3-0) | 55.00 |
 | 1 | [Smart Robot Car Starter Kit Chassis (2WD)](https://ardustore.dk/produkt/smart-robotbil-startpakke-chassis-2wd) | 95.00 |
+| 1 | [LM2596 Step-Down 5-40V to 5V 3A Module](https://ardustore.dk/produkt/step-down-lm2596-5-40v-til-5v-3a-module) | 20.00 |
 
 ### Total Cost
-**506.20 kr.**
+**526.20 kr.**
 
 ---
 
